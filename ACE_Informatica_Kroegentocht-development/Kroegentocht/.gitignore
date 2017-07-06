@@ -1,0 +1,9 @@
+/bin/
+/target/
+/kroegentocht.log
+/services.classwrappers.VisitClassWrapper.db
+/model.Establishment.db
+/model.TypeOfBusiness.db
+/model.Visit.db
+/testing.TestModel.db
+/model.Address.db
